@@ -1,0 +1,11 @@
+C:\Users\ADMIN\source\repos\LTM\Form1\Form1\bin\Debug\Form1.exe.config
+C:\Users\ADMIN\source\repos\LTM\Form1\Form1\bin\Debug\Form1.exe
+C:\Users\ADMIN\source\repos\LTM\Form1\Form1\bin\Debug\Form1.pdb
+C:\Users\ADMIN\source\repos\LTM\Form1\Form1\obj\Debug\Form1.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\LTM\Form1\Form1\obj\Debug\Form1.Form1.resources
+C:\Users\ADMIN\source\repos\LTM\Form1\Form1\obj\Debug\Form1.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\LTM\Form1\Form1\obj\Debug\Form1.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\LTM\Form1\Form1\obj\Debug\Form1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\LTM\Form1\Form1\obj\Debug\Form1.exe
+C:\Users\ADMIN\source\repos\LTM\Form1\Form1\obj\Debug\Form1.pdb
+C:\Users\ADMIN\source\repos\LTM\Form1\Form1\obj\Debug\Form1.Form2.resources
